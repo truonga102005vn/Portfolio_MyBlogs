@@ -38,5 +38,5 @@
 
 1. **Clone dự án**:
    ```bash
-   git clone https://github.com/<ten-tai-khoan-github>/<ten-repository>.git
+   git clone git@github.com:truonga102005vn/Portfolio_MyBlogs.git
    cd <ten-repository>
